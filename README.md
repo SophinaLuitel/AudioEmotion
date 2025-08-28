@@ -4,4 +4,5 @@
 * Angry
 * Fear
 * Disgust
+* Excited
   
